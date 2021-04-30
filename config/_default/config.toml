@@ -49,9 +49,6 @@ rel  = "sitemap"
     [markup.goldmark.parser]
       autoHeadingID = true
       autoHeadingIDType = "github"
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
