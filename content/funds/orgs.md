@@ -9,7 +9,7 @@ images: []
 ---
 
 
-### ChangeWithOneOrg
+### [ChangeWithOneOrg](https://pages.razorpay.com/ChangeWithOneCOVID19Relief)
 Simply Blood and Change With One Meal are initiatives run by "Change With One Foundation", which is a Delhi based non-profit.
 
 Contact: 
@@ -22,3 +22,7 @@ Indians and internationals can donate and receive tax exemption. Have raised 220
 [website](https://www.giveindia.org/aboutus)
 [blog](https://www.giveindia.org/blog/giveindias-india-covid-response-fund-is-active-again/)
 
+
+### [DonateOxygen Paytm Foundation](https://paytm.com/offer/donateoxygen)
+Donation to be used to buy oxygen concentrators. Raising 14 crore to donate oxygen concentrators accross india. They also do `MatchingDonation`.
+[Vijay Shekar Sharm Tweet](https://twitter.com/vijayshekhar/status/1386226815052644353)

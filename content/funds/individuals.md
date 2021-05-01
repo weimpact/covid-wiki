@@ -13,3 +13,9 @@ images: []
 Initiative to distribute masks throughout India, helping small impact creators with funds, and supporting workers who were laid off due to COVID-19. led by [@sanketh](https://covidwall.wishboard.co/)
 
 
+## [Milaap](https://milaap.org/communities/covid-19)
+Platform for fundraisers. There're multiple fundraisers created by individuals for oxygen concentrators, donating equipments to hospital etc. fundraisers also publish updates and their stories.
+
+## [ImpactGuru](https://www.impactguru.com/fight-corona)
+Platform for fundraisers, also have zomato feeding india, oxygen fundraiser.
+
