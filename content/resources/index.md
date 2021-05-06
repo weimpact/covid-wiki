@@ -42,22 +42,38 @@ contact: [@COVResourcesIn](COVResourcesIn)
 
 ### [we will win](https://www.wewillwin.in/)
 verfied information, dedicated call center led by Avenue Growth and Fullestop
+<a href="https://storage.googleapis.com/revoir-storage/wewillwin.png">
 <img src="https://storage.googleapis.com/revoir-storage/wewillwin.png" width="100%"/>
+</a>
 
 ### [covidrelief](https://covidrelief.glideapp.io/)
 resources along with food, statewise covid helplines, [Twitter](https://twitter.com/CovRelief)
+<a href="https://storage.googleapis.com/revoir-storage/covidreleif.png" />
 <img src="https://storage.googleapis.com/revoir-storage/covidreleif.png" width="100%"/>
+</a>
 
 ### [mumbai covid resources](https://www.instagram.com/stvorg/guide/mumbai-covid-19-resources/17893685921045044/)
 Instagram posts about resources specific to mumbai
 
 ### [covidbedsindia](https://covidbedsindia.in/)
 map of beds with icu & ventilator at different city locations
+<a href="https://storage.googleapis.com/revoir-storage/covidbedsindia.png">
 <img src="https://storage.googleapis.com/revoir-storage/covidbedsindia.png" width="100%"/>
+</a>
+
+### [covid.army](https://covid.army/)
+resources listed accross different cities, data fed/searched from twitter tweets.
+<img src="https://storage.googleapis.com/revoir-storage/covidarmy.png" width="100%"/>
+
+### [covid19-twitter.in](https://covid19-twitter.in/)
+Twitter search for COVID related resources with cities
+<img src="https://storage.googleapis.com/revoir-storage/covid-twitter.png" width="100%"/>
 
 # Dashboards
 ### [covid19india.org](http://covid19india.org/)
 > * Great website with daily/weekly aggregation of covid cases, the data's verifed and updated frequently by volunteers/community
 
+<a href="https://storage.googleapis.com/revoir-storage/covid19india.png">
 <img src="https://storage.googleapis.com/revoir-storage/covid19india.png" width="100%"/>
+</a>
 

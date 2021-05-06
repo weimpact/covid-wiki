@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Articles"
-  url = "/articles/prologue/introduction/"
+  url = "/articles/help"
   weight = 10
 
 [[main]]
@@ -43,7 +43,7 @@
   post = "v0.1.0"
   weight = 20
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+  name = "FAQ"
+  url = "/articles/help/faq"
+  weight = 10

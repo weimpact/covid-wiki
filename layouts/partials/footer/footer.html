@@ -1,0 +1,25 @@
+<footer class="footer text-muted">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 order-last order-lg-first">
+        <ul class="list-inline">
+          <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
+        </ul>
+      </div>
+      <div class="col-lg-8 order-first order-lg-last text-lg-end">
+        <ul class="list-inline">
+          {{ range .Site.Menus.footer -}}
+            <li class="list-inline-item"><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+          {{ end -}}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169847539-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-169847539-1');
+</script>
