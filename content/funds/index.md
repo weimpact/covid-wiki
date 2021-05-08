@@ -40,6 +40,9 @@ Indians and internationals can donate and receive tax exemption. Have raised 220
 [website](https://www.giveindia.org/aboutus)
 [blog](https://www.giveindia.org/blog/giveindias-india-covid-response-fund-is-active-again/)
 
+### [Zerodha Donate Oxygen](https://zerodha.com/covid)
+Zerodha has partnered with ACT Grants, a non-profit organisation that is attempting to supply 50,000+ oxygen concentrators across India. The units start shipping soon.
+On behalf of our clients and community, Zerodha has committed ₹7.4 crores ($1mn) to this project, and ACT Grants has matched that with an additional commitment of $1mn. We urge you to donate whatever you can alongside us.
 
 ### [DonateOxygen Paytm Foundation](https://paytm.com/offer/donateoxygen)
 Donation to be used to buy oxygen concentrators. Raising 14 crore to donate oxygen concentrators accross india. They also do `MatchingDonation`.

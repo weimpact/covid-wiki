@@ -17,9 +17,16 @@ images: []
 **[@GoaCovidWarRoom](https://twitter.com/GoaCovidWarRoom)**
 > For Plasma, Blood or any other medical requirements in Goa please reach out to us. #Goacovidwarrroom
 
-- **[@megha](https://twitter.com/meghakowdley)**
-- **[alysha maria lobo](https://twitter.com/alysha_lobo)**
+- **[Megha](https://twitter.com/meghakowdley)**
+Sharing resources and sharing seeking help related tweets
+- **[Alysha maria lobo](https://twitter.com/alysha_lobo)**
 building [@covidasha](https://www.covidasha.org/) bot on Telegram
+- **[Sanketh](https://twitter.com/SankethYS)**
+building one covid resources [covidwall](http://covidwall.wishboard.co), tweeting covid resources and relevant discussions
+- **[Nirbhay Vashist](https://twitter.com/nirbhayvashisht)**
+created a volunteer [community](https://twitter.com/nirbhayvashisht/status/1388367788947820544) to collaborate and build solutions
 
-
+List of profiles who's amplifying covid related tweets
+* [Shruti Kapoor](https://twitter.com/shrutikapoor08)
+* [Sayani Bhattacharjee](https://twitter.com/SayaniBh)
 
